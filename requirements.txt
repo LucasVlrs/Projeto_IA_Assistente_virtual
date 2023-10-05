@@ -1,0 +1,7 @@
+nltk
+SpeechRecognition
+bs4
+requests
+regex
+PySerial
+pyaudio

@@ -1,0 +1,28 @@
+'''
+Manual de uso da Assistente Nata:
+Sobre a Assistente Nata:
+
+    Nata é capaz de responder com precisão a diversas questões sobre o corpo humano, são elas: 
+        (1) Quais são os sistemas que compõem o corpo humano? 
+        (2) Qual é o maior osso do corpo humano? 
+        (3) Quantos músculos existem no corpo humano? 
+        (4) Quais são os tipos de tecidos que existem no corpo humano? 
+        (5) Qual é a função do coração no corpo humano?
+
+Funcionamento:
+
+    Abrir o arquivo "requirements.txt" e fazer a instalação das bibliotecas necessárias.
+        - abrir terminal
+        - executar comando: pip3 install -r AI_project_Nata\requirements.txt
+    Com todas as instalações feitas abra o arquivo "run_Nata.py" e execute o programa a partir do arquivo.
+
+Sobre os testes:
+
+    Os testes foram feitos utilizando a biblioteca unittest nativa do python.
+    Para os mesmos. Cirei duas classes de testes. Uma para testes em relação ao nome da assistente, 
+    e outra em relação ao funcionamento das perguntas, inclusive, fazendo uma pergunta que não está 
+    dentro das capacidades de resposta da Inteligência Artificial.
+
+'''
+Projeto da matéria "Inteligência Artificial" do curso de Sistemas de Informação do IFBA - Campus de Vitória da Conquista.
+Discente: Lucas Vilares Barreto.
